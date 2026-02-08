@@ -12,8 +12,9 @@ Built to be:
 
 ## 🖼️ Architecture Diagram
 
-![Architecture Diagram](media/tree.png)
-![Architecture Diagram](media/architecture.png)
+![Project Structure](media/tree.png)
+
+![Architecture Diagram](media/Architecture.png)
 
 ---
 
@@ -48,8 +49,6 @@ Built to be:
 - **Bash (deployment automation)**
 
 ---
-
-## 🚀 Deployment (1 command)
 
 ### Prerequisites
 
@@ -103,6 +102,9 @@ gcloud projects add-iam-policy-binding $PROJECT_ID \
   --member="serviceAccount:$SA" \
   --role="roles/logging.logWriter"
 ```
+
+---
+## 🚀 Deployment (1 command)
 
 ### Deploy
 
