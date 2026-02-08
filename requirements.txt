@@ -1,0 +1,5 @@
+functions-framework==3.5.0
+google-cloud-compute==1.19.1
+google-cloud-aiplatform==1.42.1
+flask==3.0.2
+markupsafe==2.1.5
