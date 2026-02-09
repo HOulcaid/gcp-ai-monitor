@@ -10,18 +10,20 @@ Built to be:
 
 ---
 
-## 🖼️ Architecture Diagram
+## 🖼️ The Architecture
 
+### Project Structure
 ![Project Structure](media/tree.png)
 
-![Architecture Diagram](media/Architecture.png)
+### Architecture Diagram
+![Architecture Diagram](media/architecture.png)
 
 ---
 
 ## 📸 Application Screenshots
 
 ### Project Summary & VM Inventory and AI Cost Optimization Recommendations
-![VM Summary](media/Interface.png)
+![VM Summary](media/interface.png)
 
 ---
 
